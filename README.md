@@ -1,17 +1,22 @@
-![118371339-782ab800-b5ac-11eb-9e04-5ff7991a9068](https://cdn.discordapp.com/attachments/853006621353443328/854013289787818004/Digital_rain_animation_medium_letters_shine.gif)
-### Hello!
+<p align="center">
+  <a href="https://discord.gg/cZkqyaRkb6">
+    <img src="https://cdn.discordapp.com/attachments/835652361715712020/842756715400134667/dsafsdaf.png"></a>
+</p>
+</p>
+<p align="center">
+    <a href="https://discordapp.com/users/852995819104108544">
+   <img alt="Discord" src="https://img.shields.io/badge/Discord-wreckt%236423-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=20&labelColor=000'"></a>  
+</p>
 
-<!--
-**sharkiiiii/sharkiiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-CEO of "Sharks"
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">Fully Written in.</h2>
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/835652361715712020/842758450962366480/asgsdag.png"></a>
+</p>
+
+<h2 align="center">Profile stats.</h2>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ScopesDK&show_icons=true&theme=dark&locale=en"/>
+<br />
+
+</pre>
