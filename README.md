@@ -1,4 +1,4 @@
-![118371339-782ab800-b5ac-11eb-9e04-5ff7991a9068](https://cdn.discordapp.com/attachments/853006621353443328/854013024452739092/6t0SVCbLDL5_zVfmT2cd-cV7m0xgnFJbYvMTG9W-GlRfMLkh6vf9lmz0bnkieHrMqzCgLxqFmMMoMbmppClFdHE9dGjZ9g.png)
+![118371339-782ab800-b5ac-11eb-9e04-5ff7991a9068](https://cdn.discordapp.com/attachments/853006621353443328/854013289787818004/Digital_rain_animation_medium_letters_shine.gif)
 ### Hello!
 
 <!--
