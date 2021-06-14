@@ -2,11 +2,7 @@
   <a href="https://discord.gg/cZkqyaRkb6">
     <img src="https://cdn.discordapp.com/attachments/835652361715712020/842756715400134667/dsafsdaf.png"></a>
 </p>
-</p>
-<p align="center">
-    <a href="https://discordapp.com/users/852995819104108544">
-   <img alt="Discord" src="https://img.shields.io/badge/Discord-wreckt%236423-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=20&labelColor=000'"></a>  
-</p>
+
 
 
 <h2 align="center">Fully Written in.</h2>
