@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://discord.gg/cZkqyaRkb6">
-    <img src="https://cdn.discordapp.com/attachments/835652361715712020/842756715400134667/dsafsdaf.png"></a>
+    <img src="https://servreality.com/wp-content/uploads/2020/07/C-Development-Banner.jpg"></a>
 </p>
 
 
