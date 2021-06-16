@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://discord.gg/cZkqyaRkb6">
-    <img src="https://servreality.com/wp-content/uploads/2020/07/C-Development-Banner.jpg"></a>
+  <a href="https://nigga.com">
+    <img src="https://tha2r.com/wp-content/uploads/2018/02/github.7433692cabbfa132f34adb034e7909fa.png"></a>
 </p>
 
 
